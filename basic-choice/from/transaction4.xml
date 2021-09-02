@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transaction>
+  <id>4</id>
+  <firstName>Giorgo</firstName>
+  <lastName>Armani</lastName>
+  <city>Rome</city>
+  <transactionValue>190.5</transactionValue>
+</transaction>

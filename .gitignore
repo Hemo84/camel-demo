@@ -1,0 +1,13 @@
+target
+activemq-data
+data/*
+.idea
+*.i??
+.classpath
+.project
+.settings
+.vertx
+.metadata
+.factorypath
+.vscode
+.mvn/wrapper/maven-wrapper.jar
